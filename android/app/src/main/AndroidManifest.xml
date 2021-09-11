@@ -2,7 +2,7 @@
     package="com.example.todo_list">
     <uses-permission android:name="android.permission.INTERNET"/>
    <application
-        android:label="todo_list"
+        android:label="Todo list"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
